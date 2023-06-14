@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fatima-Malikk](https://github.com/Fatima-Malikk)
-
 - ⚡ Fun fact **I love reading books and playing throwball**
 
 <h3 align="left">Connect with me:</h3>
